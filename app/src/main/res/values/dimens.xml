@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_quiz_size">8dp</dimen>
+    <dimen name="text_size">10dp</dimen>
+    <dimen name="text_marginTop">60dp</dimen>
+    <dimen name="text_left">5dp</dimen>
+    <dimen name="text_top">10dp</dimen>
+    <dimen name="text_bottom">10dp</dimen>
+    <dimen name="button">70dp</dimen>
+    <dimen name="buttonCustom">1</dimen>
+    <dimen name="radioGroup">1dp</dimen>
+    <dimen name="layout_weight">0.13</dimen>
+    <dimen name="weightSum">1</dimen>
+    <dimen name="layout_weight_button">1</dimen>
+</resources>
